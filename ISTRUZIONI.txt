@@ -1,0 +1,11 @@
+REEL HOME · CASA MICHELA
+
+1) Su GitHub (account associazionecasamichelapresidente) crea il repository: home-casamichela
+2) Carica il file index.html (solo questo serve online)
+3) Settings > Pages > Branch: main, cartella / (root) > Save
+4) Dopo 1-2 minuti il reel è su:
+   https://associazionecasamichelapresidente.github.io/home-casamichela/
+5) Su Webador aggiungi un blocco HTML nella Home e incolla il contenuto di codice-webador.html
+
+Durata: 60 secondi circa. La musica è generata dal browser (nessun file audio esterno):
+parte quando il visitatore tocca "play", come richiedono tutti i browser.
